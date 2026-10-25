@@ -1,0 +1,63 @@
+{
+ "ts": "2026-10-24T19:33:49+07:00",
+ "source": "drip",
+ "blocked": false,
+ "requests": 3,
+ "units": [
+  {
+   "sku": "10137951520213",
+   "unit_id": "128917713736704",
+   "model": "RedmiBook Pro 15",
+   "name": "小米 RedmiBook Pro 15 15.6英寸 灰色 i5 12代 集显 16G 512G 无",
+   "cpu": "Intel i5 12-го пок.",
+   "platform": "Intel",
+   "gpu": "встроенная",
+   "ram": "16 ГБ",
+   "ssd": "512 ГБ",
+   "cond_cn": "8成新",
+   "batt_cn": "90%以上",
+   "scratch_cn": "轻微",
+   "adapter_cn": "有",
+   "price": 2479.0,
+   "report": "39176/82sb00914",
+   "url": "https://item.m.jd.com/product/10137951520213.html?inspectSkuId=128917713736704"
+  },
+  {
+   "sku": "10137951520213",
+   "unit_id": "128050434414596",
+   "model": "RedmiBook Pro 15",
+   "name": "小米 RedmiBook Pro 15 15.6英寸 灰色 Ryzen 7 6代 RTX2050 16G 512G 无",
+   "cpu": "Ryzen 7 6800H",
+   "platform": "AMD",
+   "gpu": "RTX2050",
+   "ram": "16 ГБ",
+   "ssd": "512 ГБ",
+   "cond_cn": "8成新",
+   "batt_cn": "80%-90%",
+   "scratch_cn": "明显",
+   "adapter_cn": "有",
+   "price": 2729.0,
+   "report": "39465/22SA00970",
+   "url": "https://item.m.jd.com/product/10137951520213.html?inspectSkuId=128050434414596"
+  },
+  {
+   "sku": "10137951520213",
+   "unit_id": "129001182997507",
+   "model": "RedmiBook Pro 15",
+   "name": "小米 RedmiBook Pro 15 15.6英寸 灰色 i5 12代 集显 16G 512G 无",
+   "cpu": "Intel i5 12-го пок.",
+   "platform": "Intel",
+   "gpu": "встроенная",
+   "ram": "16 ГБ",
+   "ssd": "512 ГБ",
+   "cond_cn": "8成新",
+   "batt_cn": "80%-90%",
+   "scratch_cn": "细微",
+   "adapter_cn": "有",
+   "price": 2409.0,
+   "report": "39176/82QN04408",
+   "url": "https://item.m.jd.com/product/10137951520213.html?inspectSkuId=129001182997507"
+  }
+ ],
+ "lots": []
+}

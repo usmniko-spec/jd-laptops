@@ -1,0 +1,27 @@
+{
+ "ts": "2026-10-25T14:35:02+07:00",
+ "source": "drip",
+ "blocked": true,
+ "requests": 2,
+ "units": [
+  {
+   "sku": "10137951520214",
+   "unit_id": "128227533659150",
+   "model": "Book 12.4 二合一",
+   "name": "小米 小米 Book 12.4 二合一 12.4英寸 高通骁龙8cx Gen2 集显 8G 256G 无",
+   "cpu": "—",
+   "platform": "—",
+   "gpu": "встроенная",
+   "ram": "8 ГБ",
+   "ssd": "256 ГБ",
+   "cond_cn": "8成新",
+   "batt_cn": "80%-90%",
+   "scratch_cn": "轻微",
+   "adapter_cn": "无",
+   "price": 849.0,
+   "report": "47248/33NH00436",
+   "url": "https://item.m.jd.com/product/10137951520214.html?inspectSkuId=128227533659150"
+  }
+ ],
+ "lots": []
+}

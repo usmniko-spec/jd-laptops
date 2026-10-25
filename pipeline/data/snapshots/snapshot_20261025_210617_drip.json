@@ -1,0 +1,27 @@
+{
+ "ts": "2026-10-25T21:06:17+07:00",
+ "source": "drip",
+ "blocked": true,
+ "requests": 2,
+ "units": [
+  {
+   "sku": "10137951520215",
+   "unit_id": "128580953060353",
+   "model": "REDMI Book 16 2026",
+   "name": "小米 REDMI Book 16 2026 16英寸 星辰灰 Ultra 5 125H 集显 32G 1T 无",
+   "cpu": "Ultra 5 125H",
+   "platform": "Intel",
+   "gpu": "встроенная",
+   "ram": "32 ГБ",
+   "ssd": "1 ТБ",
+   "cond_cn": "99新",
+   "batt_cn": "90%以上",
+   "scratch_cn": "细微",
+   "adapter_cn": "有",
+   "price": 5629.0,
+   "report": "74245/26S700129",
+   "url": "https://item.m.jd.com/product/10137951520215.html?inspectSkuId=128580953060353"
+  }
+ ],
+ "lots": []
+}

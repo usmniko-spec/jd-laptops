@@ -1,0 +1,18 @@
+{
+ "budget": {
+  "lots": 3,
+  "probe": 2,
+  "pass": 1
+ },
+ "consec_blocks": 1,
+ "probe_cursor": 0,
+ "lot_cursor": 6,
+ "runs": 2,
+ "last_run": "2026-10-25T21:20:05+07:00",
+ "backoff_until": "2026-10-25T21:20:14+07:00",
+ "last_block": "challenge",
+ "stats": {
+  "lots_total": 9,
+  "units_registry": 127
+ }
+}

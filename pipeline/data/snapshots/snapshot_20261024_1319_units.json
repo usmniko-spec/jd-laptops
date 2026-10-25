@@ -1,0 +1,27 @@
+{
+ "ts": "2026-10-24T13:19:30+07:00",
+ "source": "units",
+ "blocked": true,
+ "requests": 2,
+ "units": [
+  {
+   "sku": "10193211849646",
+   "unit_id": "128763490752514",
+   "model": "RedmiBook Pro 14",
+   "name": "小米 Redmi Book Pro 14 2024 14英寸 星辰灰 Ultra 5 125H 集显 16G 1T 无",
+   "cpu": "Ultra 5 125H",
+   "platform": "Intel",
+   "gpu": "встроенная",
+   "ram": "16 ГБ",
+   "ssd": "1 ТБ",
+   "cond_cn": "8成新",
+   "batt_cn": "80%-90%",
+   "scratch_cn": "轻微",
+   "adapter_cn": "无",
+   "price": 3299.0,
+   "report": "55131/24R600488",
+   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=128763490752514"
+  }
+ ],
+ "lots": []
+}
