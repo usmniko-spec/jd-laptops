@@ -1,6 +1,7 @@
 #!/bin/bash
 # Автоцикл: всё решает auto.py. Работает и на Mac (launchd), и на VPS (systemd).
 cd "$(dirname "$0")"
+mkdir -p logs cache data/snapshots
 PY="${PY:-python3}"
 # на Mac удобнее бандл-питон, на VPS — системный
 if [ -x "/Users/niko/.dsh/dsh-runtimes/dsh-primary-runtime/dependencies/python/bin/python3" ] && [ "$(uname)" = "Darwin" ]; then
