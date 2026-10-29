@@ -7,8 +7,8 @@
  "consec_blocks": 70,
  "probe_cursor": 0,
  "lot_cursor": 5,
- "runs": 134,
- "last_run": "2026-10-30T04:32:24+07:00",
+ "runs": 135,
+ "last_run": "2026-10-30T05:16:05+07:00",
  "backoff_until": "2026-10-30T05:32:36+07:00",
  "last_block": "challenge",
  "stats": {
