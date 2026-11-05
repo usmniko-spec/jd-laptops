@@ -923,8 +923,8 @@
   "price": 1919.0,
   "first_seen": "2026-10-23T13:30:09+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=128808363515905"
  },
  "128763490752514": {
@@ -1307,8 +1307,8 @@
   "price": 4779.0,
   "first_seen": "2026-10-23T14:23:15+07:00",
   "last_seen": "2026-10-23T14:23:15+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=129185464986628"
  },
  "128732321815567": {
@@ -1320,7 +1320,7 @@
   "ssd": "1 ТБ",
   "name": "小米 REDMI Book Pro 14 2025 14英寸 晴空蓝 Ultra 7 255H 集显 32G 1T 无",
   "cond": "8成新",
-  "price": 5629.0,
+  "price": 5179.0,
   "first_seen": "2026-10-23T14:23:15+07:00",
   "last_seen": "2026-10-23T14:23:15+07:00",
   "status": "active",
@@ -1339,8 +1339,8 @@
   "price": 4779.0,
   "first_seen": "2026-10-23T14:23:15+07:00",
   "last_seen": "2026-10-23T14:23:15+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=129219986732043"
  },
  "128989978448915": {
@@ -1355,8 +1355,8 @@
   "price": 5569.0,
   "first_seen": "2026-10-23T14:23:15+07:00",
   "last_seen": "2026-10-23T14:23:15+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=128989978448915"
  },
  "128774859405329": {
@@ -1371,8 +1371,8 @@
   "price": 5429.0,
   "first_seen": "2026-10-23T14:23:15+07:00",
   "last_seen": "2026-10-23T14:23:15+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=128774859405329"
  },
  "128872785393664": {
@@ -1387,8 +1387,8 @@
   "price": 5539.0,
   "first_seen": "2026-10-23T14:23:15+07:00",
   "last_seen": "2026-10-23T14:23:15+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=128872785393664"
  },
  "127993900971034": {
@@ -1547,8 +1547,8 @@
   "price": 3129.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=129223714937867"
  },
  "128773826033675": {
@@ -1563,8 +1563,8 @@
   "price": 2019.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=128773826033675"
  },
  "128817935966212": {
@@ -1579,8 +1579,8 @@
   "price": 2339.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=128817935966212"
  },
  "128732106874892": {
@@ -1595,8 +1595,8 @@
   "price": 2219.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=128732106874892"
  },
  "128542687374339": {
@@ -1611,8 +1611,8 @@
   "price": 2309.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=128542687374339"
  },
  "128917700098056": {
@@ -1627,8 +1627,8 @@
   "price": 2479.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=128917700098056"
  },
  "128674367539232": {
@@ -1643,8 +1643,8 @@
   "price": 1939.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=128674367539232"
  },
  "128816536099873": {
@@ -1659,8 +1659,8 @@
   "price": 2059.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=128816536099873"
  },
  "128413314605058": {
@@ -1672,7 +1672,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 15 15.6英寸 灰色 i5 12代 RTX2050 16G 512G 无",
   "cond": "7成新",
-  "price": 2629.0,
+  "price": 2399.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
   "status": "active",
@@ -1691,8 +1691,8 @@
   "price": 2049.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=128679329931264"
  },
  "129045382062091": {
@@ -1707,8 +1707,8 @@
   "price": 2359.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T15:49:54+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=129045382062091"
  },
  "128634105915408": {
@@ -2094,5 +2094,37 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129772833749017"
+ },
+ "129732701591567": {
+  "unit_id": "129732701591567",
+  "sku": "10193211849647",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 225H",
+  "ram": "32 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 REDMI Book Pro 14 2025 14英寸 晴空蓝 Ultra 5 225H 集显 32G 1T 无",
+  "cond": "8成新",
+  "price": 4779.0,
+  "first_seen": "2026-11-05T15:49:54+07:00",
+  "last_seen": "2026-11-05T15:49:54+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=129732701591567"
+ },
+ "129630751694848": {
+  "unit_id": "129630751694848",
+  "sku": "10193211849647",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 255H",
+  "ram": "32 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 REDMI Book Pro 14 2025 14英寸 晴空蓝 Ultra 7 255H 集显 32G 1T 无",
+  "cond": "8成新",
+  "price": 5159.0,
+  "first_seen": "2026-11-05T15:49:54+07:00",
+  "last_seen": "2026-11-05T15:49:54+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=129630751694848"
  }
 }
