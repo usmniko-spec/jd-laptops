@@ -2224,5 +2224,150 @@
   "cpu": "Intel i5 12-го пок.",
   "price": 2389.0,
   "prev": 2389.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "127279511922688",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i7 12-го пок.",
+  "price": 2819.0,
+  "prev": 2899.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "129046755694602",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 7 5700U",
+  "price": 2099.0,
+  "prev": 2219.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "128773838080000",
+  "model": "REDMI Book 14",
+  "cpu": "Ryzen 7 7000",
+  "price": 3259.0,
+  "prev": 3219.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "129757018071040",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i5 11-го пок.",
+  "price": 1689.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "127550901201927",
+  "model": "REDMI Book 14",
+  "cpu": "Core 5 220H",
+  "price": 3739.0,
+  "prev": 3739.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "128643348040704",
+  "model": "REDMI Book 14",
+  "cpu": "—",
+  "price": 2969.0,
+  "prev": 2969.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "128868900936710",
+  "model": "REDMI Book 14",
+  "cpu": "Core 5 220H",
+  "price": 2999.0,
+  "prev": 2999.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "129097740060704",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 1949.0,
+  "prev": 1949.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "129175639318670",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i5 12-го пок.",
+  "price": 2799.0,
+  "prev": 2799.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "129182340751367",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 2139.0,
+  "prev": 2139.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "128685614570506",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i7 11-го пок.",
+  "price": 2299.0,
+  "prev": 2299.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "129178447918101",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i5 11-го пок.",
+  "price": 2299.0,
+  "prev": 2299.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "128902468996164",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i5 11-го пок.",
+  "price": 2089.0,
+  "prev": 2089.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "128358268024836",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i5 12-го пок.",
+  "price": 2139.0,
+  "prev": 2139.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "129132525005832",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 2359.0,
+  "prev": 2359.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-05T13:35:49+07:00",
+  "unit_id": "129121750360072",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 2149.0,
+  "prev": 2149.0
  }
 ]
