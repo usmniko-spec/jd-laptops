@@ -1675,8 +1675,8 @@
   "price": 2529.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-06T05:00:39+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=128413314605058"
  },
  "128679329931264": {
@@ -2091,8 +2091,8 @@
   "price": 3179.0,
   "first_seen": "2026-11-05T14:52:54+07:00",
   "last_seen": "2026-11-05T14:52:54+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-06T05:00:39+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129772833749017"
  },
  "129732701591567": {
@@ -2302,5 +2302,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10147930181240.html?inspectSkuId=129583485557864"
+ },
+ "129275938224131": {
+  "unit_id": "129275938224131",
+  "sku": "10193211849647",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 255H",
+  "ram": "32 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 REDMI Book Pro 14 2025 14英寸 晴空蓝 Ultra 7 255H 集显 32G 1T 无",
+  "cond": "95新",
+  "price": 5389.0,
+  "first_seen": "2026-11-06T05:00:39+07:00",
+  "last_seen": "2026-11-06T05:00:39+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=129275938224131"
  }
 }
