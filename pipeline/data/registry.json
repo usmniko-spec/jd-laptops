@@ -1000,7 +1000,7 @@
   "ssd": "1 ТБ",
   "name": "小米 Redmi Book Pro 14 2024 14英寸 晴空蓝 Ultra 7 155H 集显 32G 1T 无",
   "cond": "95新",
-  "price": 4399.0,
+  "price": 4459.0,
   "first_seen": "2026-10-23T14:06:59+07:00",
   "last_seen": "2026-10-23T14:06:59+07:00",
   "status": "active",
@@ -1016,7 +1016,7 @@
   "ssd": "1 ТБ",
   "name": "小米 Redmi Book Pro 14 2024 14英寸 晴空蓝 Ultra 7 155H 集显 32G 1T 无",
   "cond": "8成新",
-  "price": 4079.0,
+  "price": 3799.0,
   "first_seen": "2026-10-23T14:06:59+07:00",
   "last_seen": "2026-10-23T14:06:59+07:00",
   "status": "sold",
@@ -1067,8 +1067,8 @@
   "price": 4039.0,
   "first_seen": "2026-10-23T14:06:59+07:00",
   "last_seen": "2026-10-23T14:06:59+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-05T19:49:51+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=128451722369031"
  },
  "129091249924150": {
@@ -1624,7 +1624,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 15 15.6英寸 灰色 i5 12代 集显 16G 512G 无",
   "cond": "8成新",
-  "price": 2479.0,
+  "price": 2329.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
   "status": "sold",
@@ -2088,7 +2088,7 @@
   "ssd": "512 ГБ",
   "name": "小米 Redmi Book Pro 14 2024 14英寸 星辰灰 Ultra 5 125H 集显 16G 512G 无",
   "cond": "8成新",
-  "price": 3199.0,
+  "price": 3179.0,
   "first_seen": "2026-11-05T14:52:54+07:00",
   "last_seen": "2026-11-05T14:52:54+07:00",
   "status": "active",
@@ -2158,5 +2158,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10147930181240.html?inspectSkuId=129182600798226"
+ },
+ "129538742820867": {
+  "unit_id": "129538742820867",
+  "sku": "10193211849647",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 255H",
+  "ram": "32 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 REDMI Book Pro 14 2025 14英寸 晴空蓝 Ultra 7 255H 集显 32G 1T 无",
+  "cond": "99新",
+  "price": 5479.0,
+  "first_seen": "2026-11-05T19:49:51+07:00",
+  "last_seen": "2026-11-05T19:49:51+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=129538742820867"
  }
 }
