@@ -968,7 +968,7 @@
   "ssd": "1 ТБ",
   "name": "小米 Redmi Book Pro 14 2024 14英寸 晴空蓝 Ultra 5 125H 集显 32G 1T 无",
   "cond": "8成新",
-  "price": 3779.0,
+  "price": 3769.0,
   "first_seen": "2026-10-23T14:06:59+07:00",
   "last_seen": "2026-10-23T14:06:59+07:00",
   "status": "sold",
@@ -1608,7 +1608,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 15 15.6英寸 灰色 i7 11代 MX450 16G 512G 无",
   "cond": "8成新",
-  "price": 2309.0,
+  "price": 2159.0,
   "first_seen": "2026-10-24T19:50:30+07:00",
   "last_seen": "2026-10-24T19:50:30+07:00",
   "status": "sold",
@@ -2523,8 +2523,8 @@
   "price": 3459.0,
   "first_seen": "2026-11-06T17:51:45+07:00",
   "last_seen": "2026-11-06T17:51:45+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-06T22:39:10+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129542236145676"
  },
  "129758816395267": {
@@ -2555,8 +2555,8 @@
   "price": 2749.0,
   "first_seen": "2026-11-06T18:42:44+07:00",
   "last_seen": "2026-11-06T18:42:44+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-06T22:39:10+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=129712520169479"
  },
  "128509120356353": {
@@ -2590,5 +2590,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10147930181240.html?inspectSkuId=128552422369296"
+ },
+ "129232832302086": {
+  "unit_id": "129232832302086",
+  "sku": "10193211849646",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 155H",
+  "ram": "32 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 Redmi Book Pro 14 2024 14英寸 晴空蓝 Ultra 7 155H 集显 32G 1T 无",
+  "cond": "8成新",
+  "price": 4079.0,
+  "first_seen": "2026-11-06T22:39:10+07:00",
+  "last_seen": "2026-11-06T22:39:10+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129232832302086"
  }
 }
