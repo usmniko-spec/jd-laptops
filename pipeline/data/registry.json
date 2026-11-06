@@ -2219,8 +2219,8 @@
   "price": 2289.0,
   "first_seen": "2026-11-05T23:20:30+07:00",
   "last_seen": "2026-11-05T23:20:30+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-06T07:15:28+07:00",
   "url": "https://item.m.jd.com/product/10147930181240.html?inspectSkuId=129620791798800"
  },
  "129815269611523": {
@@ -2299,8 +2299,8 @@
   "price": 2519.0,
   "first_seen": "2026-11-06T03:07:04+07:00",
   "last_seen": "2026-11-06T03:07:04+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-06T07:15:28+07:00",
   "url": "https://item.m.jd.com/product/10147930181240.html?inspectSkuId=129583485557864"
  },
  "129275938224131": {
@@ -2350,5 +2350,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10137951520213.html?inspectSkuId=129586745584694"
+ },
+ "128540886439950": {
+  "unit_id": "128540886439950",
+  "sku": "10147930181240",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i5 11-го пок.",
+  "ram": "16 ГБ",
+  "ssd": "512 ГБ",
+  "name": "小米 RedmiBook Pro 14 14英寸 灰色 i5 11代 集显 16G 512G 无",
+  "cond": "8成新",
+  "price": 1969.0,
+  "first_seen": "2026-11-06T07:15:28+07:00",
+  "last_seen": "2026-11-06T07:15:28+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10147930181240.html?inspectSkuId=128540886439950"
  }
 }
