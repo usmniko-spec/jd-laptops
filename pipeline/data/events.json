@@ -3234,5 +3234,97 @@
   "price": 3149.0,
   "prev": null,
   "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-06T09:32:53+07:00",
+  "unit_id": "129732701591567",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 225H",
+  "price": 4769.0,
+  "prev": 4779.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-06T09:32:53+07:00",
+  "unit_id": "128732321815567",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 255H",
+  "price": 5149.0,
+  "prev": 5179.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-06T09:32:53+07:00",
+  "unit_id": "129630751694848",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 255H",
+  "price": 5219.0,
+  "prev": 5159.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-06T09:32:53+07:00",
+  "unit_id": "129538742820867",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 255H",
+  "price": 5609.0,
+  "prev": 5479.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-06T09:32:53+07:00",
+  "unit_id": "129815317328896",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 255H",
+  "price": 5299.0,
+  "prev": 5269.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-06T09:32:53+07:00",
+  "unit_id": "129804541113345",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 255H",
+  "price": 5299.0,
+  "prev": 5269.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-06T09:32:53+07:00",
+  "unit_id": "129275938224131",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 255H",
+  "price": 5409.0,
+  "prev": 5389.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-06T09:32:53+07:00",
+  "unit_id": "128917700098056",
+  "model": "RedmiBook Pro 15",
+  "cpu": "Intel i5 12-го пок.",
+  "price": 2439.0,
+  "prev": 2449.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-06T09:32:53+07:00",
+  "unit_id": "128317236205577",
+  "model": "RedmiBook Pro 15",
+  "cpu": "Intel i5 11-го пок.",
+  "price": 1949.0,
+  "prev": null,
+  "lot_first": "2026-10-24T19:50:30+07:00"
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-06T09:32:53+07:00",
+  "unit_id": "129453299611653",
+  "model": "RedmiBook Pro 15",
+  "cpu": "Intel i5 12-го пок.",
+  "price": 2309.0,
+  "prev": null,
+  "lot_first": "2026-10-24T19:50:30+07:00"
  }
 ]
