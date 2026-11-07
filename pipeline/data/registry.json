@@ -2875,8 +2875,8 @@
   "price": 2099.0,
   "first_seen": "2026-11-07T12:25:25+07:00",
   "last_seen": "2026-11-07T12:25:25+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-07T20:30:13+07:00",
   "url": "https://item.m.jd.com/product/10147930181240.html?inspectSkuId=129774593792018"
  },
  "129628856916051": {
@@ -3006,5 +3006,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10137951520213.html?inspectSkuId=129399607814144"
+ },
+ "129734651439116": {
+  "unit_id": "129734651439116",
+  "sku": "10147930181240",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i7 11-го пок.",
+  "ram": "16 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 RedmiBook Pro 14 14英寸 灰色 i7 11代 MX450 16G 1T 无",
+  "cond": "8成新",
+  "price": 2409.0,
+  "first_seen": "2026-11-07T20:30:13+07:00",
+  "last_seen": "2026-11-07T20:30:13+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10147930181240.html?inspectSkuId=129734651439116"
  }
 }
