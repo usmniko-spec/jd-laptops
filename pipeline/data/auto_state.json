@@ -4,12 +4,12 @@
   "probe": 1,
   "pass": 1
  },
- "consec_blocks": 5,
+ "consec_blocks": 6,
  "probe_cursor": 129,
- "lot_cursor": 0,
- "runs": 378,
- "last_run": "2026-11-08T03:52:27+07:00",
- "backoff_until": "2026-11-08T04:13:35+07:00",
+ "lot_cursor": 1,
+ "runs": 379,
+ "last_run": "2026-11-08T04:25:57+07:00",
+ "backoff_until": "2026-11-08T05:26:08+07:00",
  "last_block": "challenge",
  "stats": {
   "lots_total": 9,
