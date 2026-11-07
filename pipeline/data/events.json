@@ -4804,5 +4804,33 @@
   "cpu": "Ryzen 7 7000",
   "price": 3279.0,
   "prev": 3319.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-07T21:59:57+07:00",
+  "unit_id": "129809661824019",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3169.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-07T21:59:57+07:00",
+  "unit_id": "129311293068307",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4039.0,
+  "prev": 4039.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-07T21:59:57+07:00",
+  "unit_id": "129769351438359",
+  "model": "RedmiBook Pro 15",
+  "cpu": "Intel i5 12-го пок.",
+  "price": 2899.0,
+  "prev": 2899.0
  }
 ]
