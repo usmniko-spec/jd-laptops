@@ -4655,5 +4655,24 @@
   "price": 1959.0,
   "prev": null,
   "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-07T18:01:57+07:00",
+  "unit_id": "129355429710917",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3869.0,
+  "prev": 3859.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-07T18:01:57+07:00",
+  "unit_id": "129311293068307",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4039.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
  }
 ]
