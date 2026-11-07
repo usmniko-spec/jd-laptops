@@ -968,7 +968,7 @@
   "ssd": "1 ТБ",
   "name": "小米 Redmi Book Pro 14 2024 14英寸 晴空蓝 Ultra 5 125H 集显 32G 1T 无",
   "cond": "8成新",
-  "price": 3769.0,
+  "price": 3719.0,
   "first_seen": "2026-10-23T14:06:59+07:00",
   "last_seen": "2026-10-23T14:06:59+07:00",
   "status": "sold",
@@ -1000,7 +1000,7 @@
   "ssd": "1 ТБ",
   "name": "小米 Redmi Book Pro 14 2024 14英寸 晴空蓝 Ultra 7 155H 集显 32G 1T 无",
   "cond": "95新",
-  "price": 4449.0,
+  "price": 4419.0,
   "first_seen": "2026-10-23T14:06:59+07:00",
   "last_seen": "2026-10-23T14:06:59+07:00",
   "status": "sold",
@@ -1032,7 +1032,7 @@
   "ssd": "1 ТБ",
   "name": "小米 Redmi Book Pro 14 2024 14英寸 晴空蓝 Ultra 5 125H 集显 32G 1T 无",
   "cond": "8成新",
-  "price": 3989.0,
+  "price": 4009.0,
   "first_seen": "2026-10-23T14:06:59+07:00",
   "last_seen": "2026-10-23T14:06:59+07:00",
   "status": "sold",
@@ -1064,7 +1064,7 @@
   "ssd": "1 ТБ",
   "name": "小米 Redmi Book Pro 14 2024 14英寸 星辰灰 Ultra 5 125H 集显 32G 1T 无",
   "cond": "8成新",
-  "price": 3999.0,
+  "price": 4019.0,
   "first_seen": "2026-10-23T14:06:59+07:00",
   "last_seen": "2026-10-23T14:06:59+07:00",
   "status": "sold",
@@ -2379,8 +2379,8 @@
   "price": 3149.0,
   "first_seen": "2026-11-06T08:27:34+07:00",
   "last_seen": "2026-11-06T08:27:34+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-07T09:26:08+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129808407748628"
  },
  "128317236205577": {
@@ -2456,7 +2456,7 @@
   "ssd": "512 ГБ",
   "name": "小米 Redmi Book Pro 14 2024 14英寸 星辰灰 Ultra 5 125H 集显 16G 512G 无",
   "cond": "95新",
-  "price": 3349.0,
+  "price": 3319.0,
   "first_seen": "2026-11-06T13:36:42+07:00",
   "last_seen": "2026-11-06T13:36:42+07:00",
   "status": "active",
@@ -2603,8 +2603,8 @@
   "price": 4079.0,
   "first_seen": "2026-11-06T22:39:10+07:00",
   "last_seen": "2026-11-06T22:39:10+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-07T09:26:08+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129232832302086"
  },
  "129814475835393": {
@@ -2747,8 +2747,8 @@
   "price": 3859.0,
   "first_seen": "2026-11-07T06:17:07+07:00",
   "last_seen": "2026-11-07T06:17:07+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-07T09:26:08+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129355429710917"
  },
  "129859630667778": {
@@ -2798,5 +2798,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10147930181240.html?inspectSkuId=129536183241733"
+ },
+ "129260358994951": {
+  "unit_id": "129260358994951",
+  "sku": "10193211849646",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "ram": "16 ГБ",
+  "ssd": "512 ГБ",
+  "name": "小米 Redmi Book Pro 14 2024 14英寸 星辰灰 Ultra 5 125H 集显 16G 512G 无",
+  "cond": "8成新",
+  "price": 3149.0,
+  "first_seen": "2026-11-07T09:26:08+07:00",
+  "last_seen": "2026-11-07T09:26:08+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129260358994951"
  }
 }
