@@ -24,7 +24,7 @@
   "ssd": "512 ГБ",
   "name": "小米 REDMI Book 14 2025 14英寸 星光银 Core 5 220H 集显 32G 512G 无",
   "cond": "99新",
-  "price": 3899.0,
+  "price": 3779.0,
   "first_seen": "2026-10-22T22:32:00+07:00",
   "last_seen": "2026-10-23T13:25:27+07:00",
   "status": "sold",
@@ -2232,7 +2232,7 @@
   "ssd": "1 ТБ",
   "name": "小米 Redmi Book Pro 14 2024 14英寸 晴空蓝 Ultra 5 125H 集显 32G 1T 无",
   "cond": "95新",
-  "price": 4059.0,
+  "price": 4129.0,
   "first_seen": "2026-11-06T00:29:16+07:00",
   "last_seen": "2026-11-06T00:29:16+07:00",
   "status": "sold",
@@ -2891,8 +2891,8 @@
   "price": 4019.0,
   "first_seen": "2026-11-07T14:40:31+07:00",
   "last_seen": "2026-11-07T14:40:31+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-10T00:48:58+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129628856916051"
  },
  "129728030705679": {
@@ -3035,8 +3035,8 @@
   "price": 3129.0,
   "first_seen": "2026-11-07T21:59:57+07:00",
   "last_seen": "2026-11-07T21:59:57+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-10T00:48:58+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129809661824019"
  },
  "129850341854212": {
@@ -3147,8 +3147,8 @@
   "price": 3399.0,
   "first_seen": "2026-11-09T20:51:14+07:00",
   "last_seen": "2026-11-09T20:51:14+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-10T00:48:58+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129820247217156"
  },
  "129808134072320": {
@@ -3230,5 +3230,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=129536183252996"
+ },
+ "129944235567115": {
+  "unit_id": "129944235567115",
+  "sku": "10193211849646",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "ram": "32 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 Redmi Book Pro 14 2024 14英寸 星辰灰 Ultra 5 125H 集显 32G 1T 无",
+  "cond": "95新",
+  "price": 4189.0,
+  "first_seen": "2026-11-10T00:48:58+07:00",
+  "last_seen": "2026-11-10T00:48:58+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=129944235567115"
  }
 }
