@@ -5674,5 +5674,114 @@
   "cpu": "Ryzen 7 5700U",
   "price": 1889.0,
   "prev": 1889.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "128911911442434",
+  "model": "REDMI Book 14",
+  "cpu": "Ryzen 5 7000",
+  "price": 2939.0,
+  "prev": 3059.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "129808407748628",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3089.0,
+  "prev": 3119.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "128451722369031",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3969.0,
+  "prev": 3999.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "129809661824019",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3119.0,
+  "prev": 3129.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "129944235567115",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4149.0,
+  "prev": 4189.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "129808134072320",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3759.0,
+  "prev": 3869.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "129355429710917",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3819.0,
+  "prev": 3849.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "129132483074069",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3679.0,
+  "prev": 3759.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "128643698284546",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3909.0,
+  "prev": 3989.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "129721763897358",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3589.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "129999107535879",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3999.0,
+  "prev": 3999.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-10T08:43:20+07:00",
+  "unit_id": "129994045004906",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3959.0,
+  "prev": 3959.0
  }
 ]
