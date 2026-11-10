@@ -6609,5 +6609,33 @@
   "cpu": "Ultra 7 155H",
   "price": 4229.0,
   "prev": 4229.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-11T05:38:51+07:00",
+  "unit_id": "128773826033675",
+  "model": "RedmiBook Pro 15",
+  "cpu": "Intel i5 11-го пок.",
+  "price": 2069.0,
+  "prev": 2119.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-11T05:38:51+07:00",
+  "unit_id": "129275114567701",
+  "model": "RedmiBook Pro 15",
+  "cpu": "Ryzen 5 6600H",
+  "price": 2359.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-11T05:38:51+07:00",
+  "unit_id": "129268833585152",
+  "model": "RedmiBook Pro 15",
+  "cpu": "Intel i5 11-го пок.",
+  "price": 2069.0,
+  "prev": 2069.0
  }
 ]
