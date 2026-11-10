@@ -472,7 +472,7 @@
   "ssd": "512 ГБ",
   "name": "小米 REDMI Book 14 2025 14英寸 星光银 Ryzen 5 7代 集显 16G 512G 无",
   "cond": "95新",
-  "price": 2949.0,
+  "price": 2869.0,
   "first_seen": "2026-10-22T22:32:00+07:00",
   "last_seen": "2026-10-23T13:25:27+07:00",
   "status": "sold",
@@ -3486,5 +3486,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=128685614566424"
+ },
+ "130034348071936": {
+  "unit_id": "130034348071936",
+  "sku": "10193211849646",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 155H",
+  "ram": "32 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 Redmi Book Pro 14 2024 14英寸 星辰灰 Ultra 7 155H 集显 32G 1T 无",
+  "cond": "8成新",
+  "price": 4229.0,
+  "first_seen": "2026-11-10T14:49:22+07:00",
+  "last_seen": "2026-11-10T14:49:22+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=130034348071936"
  }
 }
