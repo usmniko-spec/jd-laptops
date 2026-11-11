@@ -3179,8 +3179,8 @@
   "price": 4039.0,
   "first_seen": "2026-11-09T21:46:58+07:00",
   "last_seen": "2026-11-09T21:46:58+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-12T01:07:41+07:00",
   "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=129992885286966"
  },
  "129453299608579": {
@@ -3867,8 +3867,8 @@
   "price": 2429.0,
   "first_seen": "2026-11-11T21:04:50+07:00",
   "last_seen": "2026-11-11T21:04:50+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-12T01:07:41+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=129954385782801"
  },
  "130032925149196": {
@@ -3883,8 +3883,8 @@
   "price": 2189.0,
   "first_seen": "2026-11-11T21:04:50+07:00",
   "last_seen": "2026-11-11T21:04:50+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-12T01:07:41+07:00",
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=130032925149196"
  },
  "130090091426828": {
@@ -3918,5 +3918,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=130086391527438"
+ },
+ "130040598124555": {
+  "unit_id": "130040598124555",
+  "sku": "10147930181239",
+  "model": "RedmiBook Pro 15",
+  "cpu": "Intel i5 11-го пок.",
+  "ram": "16 ГБ",
+  "ssd": "512 ГБ",
+  "name": "小米 RedmiBook Pro 15 15.6英寸 灰色 i5 11代 MX450 16G 512G 无",
+  "cond": "95新",
+  "price": 2289.0,
+  "first_seen": "2026-11-12T01:07:41+07:00",
+  "last_seen": "2026-11-12T01:07:41+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=130040598124555"
  }
 }
