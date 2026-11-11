@@ -7402,5 +7402,15 @@
   "cpu": "Ryzen 5 5500U",
   "price": 1979.0,
   "prev": 1979.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-11T18:45:40+07:00",
+  "unit_id": "130085200877576",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3749.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
  }
 ]
