@@ -7710,5 +7710,95 @@
   "cpu": "Intel i7 11-го пок.",
   "price": 2239.0,
   "prev": 2239.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-12T07:50:30+07:00",
+  "unit_id": "129808407748628",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3089.0,
+  "prev": 3069.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-12T07:50:30+07:00",
+  "unit_id": "129628856916051",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3879.0,
+  "prev": 3889.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-12T07:50:30+07:00",
+  "unit_id": "130034348071936",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 155H",
+  "price": 4239.0,
+  "prev": 4209.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-12T07:50:30+07:00",
+  "unit_id": "129944235567115",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4089.0,
+  "prev": 4059.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-12T07:50:30+07:00",
+  "unit_id": "129809661824019",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3129.0,
+  "prev": 3119.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-12T07:50:30+07:00",
+  "unit_id": "129772833749017",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3299.0,
+  "prev": 3289.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-12T07:50:30+07:00",
+  "unit_id": "130085200877576",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3769.0,
+  "prev": 3749.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-12T07:50:30+07:00",
+  "unit_id": "130086391527438",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 155H",
+  "price": 4179.0,
+  "prev": 4149.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-12T07:50:30+07:00",
+  "unit_id": "128451722369031",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3969.0,
+  "prev": 3939.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-12T07:50:30+07:00",
+  "unit_id": "130033649735695",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3769.0,
+  "prev": 3749.0
  }
 ]
