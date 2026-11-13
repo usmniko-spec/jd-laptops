@@ -9089,5 +9089,41 @@
   "cpu": "Intel i5 12-го пок.",
   "price": 2469.0,
   "prev": 2469.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-13T11:35:20+07:00",
+  "unit_id": "127550901201927",
+  "model": "REDMI Book 14",
+  "cpu": "Core 5 220H",
+  "price": 3749.0,
+  "prev": 3719.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-13T11:35:20+07:00",
+  "unit_id": "129808407748628",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3099.0,
+  "prev": 3089.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-13T11:35:20+07:00",
+  "unit_id": "129772833749017",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3349.0,
+  "prev": 3299.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-13T11:35:20+07:00",
+  "unit_id": "130132781062163",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4069.0,
+  "prev": 4069.0
  }
 ]
