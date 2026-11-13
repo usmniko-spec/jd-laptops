@@ -9208,5 +9208,23 @@
   "price": 2089.0,
   "prev": null,
   "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-13T14:53:21+07:00",
+  "unit_id": "128773838080000",
+  "model": "REDMI Book 14",
+  "cpu": "Ryzen 7 7000",
+  "price": 3119.0,
+  "prev": 3129.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-13T14:53:21+07:00",
+  "unit_id": "129355429710917",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3849.0,
+  "prev": 3789.0
  }
 ]
