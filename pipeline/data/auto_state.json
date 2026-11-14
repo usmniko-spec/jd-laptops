@@ -1,18 +1,18 @@
 {
  "budget": {
-  "lots": 2,
-  "probe": 2,
-  "pass": 2
+  "lots": 3,
+  "probe": 3,
+  "pass": 3
  },
  "consec_blocks": 0,
- "probe_cursor": 78,
- "lot_cursor": 7,
- "runs": 550,
- "last_run": "2026-11-14T22:55:14+07:00",
+ "probe_cursor": 80,
+ "lot_cursor": 0,
+ "runs": 551,
+ "last_run": "2026-11-14T23:27:37+07:00",
  "backoff_until": null,
  "last_block": "challenge",
  "stats": {
   "lots_total": 9,
-  "units_registry": 297
+  "units_registry": 299
  }
 }
