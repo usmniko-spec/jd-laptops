@@ -1,0 +1,21 @@
+{
+ "ts": "2026-11-14T22:55:31+07:00",
+ "source": "auto",
+ "blocked": false,
+ "requests": 0,
+ "units": [],
+ "lots": [
+  {
+   "sku": "10193211849647",
+   "title": "小米Redmibook14/RedmiBook Pro/13/14/15/16 轻薄笔记本 二手笔记本电脑 游戏本 以质检报告为准 Redmi Book Pro 14 2025 型号成色规格以质检报告为准",
+   "cur": "小米 REDMI Book Pro 14 2025 14英寸 晴空蓝 Ultra 5 225H 集显 32G 1T 无",
+   "prices": [
+    4879.0
+   ],
+   "unit_ids": [
+    "130216422288388"
+   ],
+   "units_read": 0
+  }
+ ]
+}
