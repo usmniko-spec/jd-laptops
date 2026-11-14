@@ -10273,5 +10273,25 @@
   "cpu": "Intel i5 11-го пок.",
   "price": 2129.0,
   "prev": 2119.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-14T21:22:25+07:00",
+  "unit_id": "129411129562124",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 7 5700U",
+  "price": 1899.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-14T21:22:25+07:00",
+  "unit_id": "130076412237843",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 1959.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
  }
 ]
