@@ -4424,7 +4424,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 i5 11代 集显 16G 512G 无",
   "cond": "8成新",
-  "price": 1989.0,
+  "price": 1969.0,
   "first_seen": "2026-11-13T19:49:25+07:00",
   "last_seen": "2026-11-13T19:49:25+07:00",
   "status": "sold",
@@ -5067,8 +5067,8 @@
   "price": 1989.0,
   "first_seen": "2026-11-15T17:23:40+07:00",
   "last_seen": "2026-11-15T17:23:40+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-15T19:37:06+07:00",
   "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=130130979063821"
  },
  "129042395707405": {
@@ -5086,5 +5086,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10137951520213.html?inspectSkuId=129042395707405"
+ },
+ "130259001299972": {
+  "unit_id": "130259001299972",
+  "sku": "10137951520212",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 7 6800H",
+  "ram": "16 ГБ",
+  "ssd": "512 ГБ",
+  "name": "小米 小米 Book Pro 14 14英寸 灰色 Ryzen 7 6代 集显 16G 512G 无",
+  "cond": "95新",
+  "price": 2699.0,
+  "first_seen": "2026-11-15T19:37:06+07:00",
+  "last_seen": "2026-11-15T19:37:06+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=130259001299972"
  }
 }
