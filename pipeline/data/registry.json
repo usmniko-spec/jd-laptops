@@ -5003,8 +5003,8 @@
   "price": 2239.0,
   "first_seen": "2026-11-15T11:31:22+07:00",
   "last_seen": "2026-11-15T11:31:22+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-15T14:43:34+07:00",
   "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=130033477768205"
  },
  "130095277170737": {
@@ -5022,5 +5022,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=130095277170737"
+ },
+ "130043820902424": {
+  "unit_id": "130043820902424",
+  "sku": "10137951520212",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 7 6800H",
+  "ram": "16 ГБ",
+  "ssd": "512 ГБ",
+  "name": "小米 RedmiBook Pro 14 14英寸 灰色 Ryzen 7 6代 集显 16G 512G 无",
+  "cond": "8成新",
+  "price": 2019.0,
+  "first_seen": "2026-11-15T14:43:34+07:00",
+  "last_seen": "2026-11-15T14:43:34+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=130043820902424"
  }
 }
