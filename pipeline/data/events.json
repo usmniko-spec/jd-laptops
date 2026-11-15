@@ -11544,5 +11544,15 @@
   "cpu": "Ryzen 7 6800H",
   "price": 2669.0,
   "prev": 2669.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-16T00:51:42+07:00",
+  "unit_id": "130267643124742",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3529.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
  }
 ]
