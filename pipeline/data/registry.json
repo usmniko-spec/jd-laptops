@@ -2728,7 +2728,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 Ryzen 7 5代 集显 16G 512G 无",
   "cond": "8成新",
-  "price": 2029.0,
+  "price": 2039.0,
   "first_seen": "2026-11-07T04:58:04+07:00",
   "last_seen": "2026-11-07T04:58:04+07:00",
   "status": "sold",
@@ -4136,7 +4136,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 i5 12代 集显 16G 512G 无",
   "cond": "8成新",
-  "price": 2279.0,
+  "price": 2199.0,
   "first_seen": "2026-11-12T19:52:05+07:00",
   "last_seen": "2026-11-12T19:52:05+07:00",
   "status": "sold",
@@ -4600,7 +4600,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 i7 12代 MX550 16G 512G 无",
   "cond": "8成新",
-  "price": 2859.0,
+  "price": 2829.0,
   "first_seen": "2026-11-14T10:26:16+07:00",
   "last_seen": "2026-11-14T10:26:16+07:00",
   "status": "sold",
@@ -5099,8 +5099,8 @@
   "price": 2699.0,
   "first_seen": "2026-11-15T19:37:06+07:00",
   "last_seen": "2026-11-15T19:37:06+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-16T00:15:49+07:00",
   "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=130259001299972"
  },
  "129442498747392": {
@@ -5131,8 +5131,8 @@
   "price": 2669.0,
   "first_seen": "2026-11-15T22:18:41+07:00",
   "last_seen": "2026-11-15T22:18:41+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-16T00:15:49+07:00",
   "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=129867067169817"
  },
  "130182127575063": {
@@ -5150,5 +5150,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10137951520213.html?inspectSkuId=130182127575063"
+ },
+ "130136138078215": {
+  "unit_id": "130136138078215",
+  "sku": "10137951520212",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i7 12-го пок.",
+  "ram": "16 ГБ",
+  "ssd": "512 ГБ",
+  "name": "小米 RedmiBook Pro 14 14英寸 灰色 i7 12代 MX550 16G 512G 无",
+  "cond": "8成新",
+  "price": 2429.0,
+  "first_seen": "2026-11-16T00:15:49+07:00",
+  "last_seen": "2026-11-16T00:15:49+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=130136138078215"
  }
 }
