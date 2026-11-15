@@ -5179,8 +5179,8 @@
   "price": 3529.0,
   "first_seen": "2026-11-16T00:51:42+07:00",
   "last_seen": "2026-11-16T00:51:42+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-16T04:27:40+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=130267643124742"
  },
  "130217504434214": {
@@ -5230,5 +5230,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=129043631986694"
+ },
+ "130258112624640": {
+  "unit_id": "130258112624640",
+  "sku": "10193211849646",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 155H",
+  "ram": "32 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 Redmi Book Pro 14 2024 14英寸 星辰灰 Ultra 7 155H 集显 32G 1T 无",
+  "cond": "8成新",
+  "price": 4129.0,
+  "first_seen": "2026-11-16T04:27:40+07:00",
+  "last_seen": "2026-11-16T04:27:40+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=130258112624640"
  }
 }
