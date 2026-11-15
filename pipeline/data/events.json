@@ -11167,5 +11167,23 @@
   "cpu": "Ryzen 5 6600H",
   "price": 2239.0,
   "prev": 2239.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-15T15:42:40+07:00",
+  "unit_id": "130033649735695",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3829.0,
+  "prev": 3849.0
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-15T15:42:40+07:00",
+  "unit_id": "130211930199040",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3859.0,
+  "prev": 3859.0
  }
 ]
