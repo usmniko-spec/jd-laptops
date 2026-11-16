@@ -5387,8 +5387,8 @@
   "price": 4039.0,
   "first_seen": "2026-11-16T17:25:19+07:00",
   "last_seen": "2026-11-16T17:25:19+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-17T02:48:50+07:00",
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=130259251375104"
  },
  "130271507665921": {
