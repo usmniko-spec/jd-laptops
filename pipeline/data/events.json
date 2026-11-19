@@ -16948,5 +16948,42 @@
   "price": 1759.0,
   "prev": null,
   "lot_first": "2026-10-24T19:50:30+07:00"
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-20T04:26:46+07:00",
+  "unit_id": "130130979063821",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 1939.0,
+  "prev": 1949.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-20T04:26:46+07:00",
+  "unit_id": "129771235187726",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 1939.0,
+  "prev": 1969.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-20T04:26:46+07:00",
+  "unit_id": "129825521010694",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 2219.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-20T04:26:46+07:00",
+  "unit_id": "130362778335237",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 1909.0,
+  "prev": 1909.0
  }
 ]
