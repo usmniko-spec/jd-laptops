@@ -4264,7 +4264,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 Ryzen 5 6代 集显 16G 512G 无",
   "cond": "8成新",
-  "price": 2309.0,
+  "price": 2319.0,
   "first_seen": "2026-11-13T05:00:14+07:00",
   "last_seen": "2026-11-13T05:00:14+07:00",
   "status": "sold",
@@ -5224,7 +5224,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 Ryzen 7 5代 集显 16G 512G 无",
   "cond": "95新",
-  "price": 2099.0,
+  "price": 2199.0,
   "first_seen": "2026-11-16T03:16:09+07:00",
   "last_seen": "2026-11-16T03:16:09+07:00",
   "status": "sold",
@@ -5480,7 +5480,7 @@
   "ssd": "256 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 i5 11代 MX450 16G 256G 无",
   "cond": "8成新",
-  "price": 1909.0,
+  "price": 1889.0,
   "first_seen": "2026-11-17T04:29:36+07:00",
   "last_seen": "2026-11-17T04:29:36+07:00",
   "status": "sold",
@@ -5704,7 +5704,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 i5 12代 MX550 16G 512G 无",
   "cond": "7成新",
-  "price": 2349.0,
+  "price": 2339.0,
   "first_seen": "2026-11-18T01:47:27+07:00",
   "last_seen": "2026-11-18T01:47:27+07:00",
   "status": "sold",
@@ -6155,8 +6155,8 @@
   "price": 2179.0,
   "first_seen": "2026-11-19T18:48:54+07:00",
   "last_seen": "2026-11-19T18:48:54+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-19T22:14:55+07:00",
   "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=129586625538063"
  },
  "130269505396771": {
@@ -6174,5 +6174,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10147930181239.html?inspectSkuId=130269505396771"
+ },
+ "129495739162641": {
+  "unit_id": "129495739162641",
+  "sku": "10137951520212",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 6600H",
+  "ram": "16 ГБ",
+  "ssd": "512 ГБ",
+  "name": "小米 RedmiBook Pro 14 14英寸 灰色 Ryzen 5 6代 集显 16G 512G 无",
+  "cond": "8成新",
+  "price": 2149.0,
+  "first_seen": "2026-11-19T22:14:55+07:00",
+  "last_seen": "2026-11-19T22:14:55+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=129495739162641"
  }
 }
