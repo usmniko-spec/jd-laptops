@@ -16183,5 +16183,95 @@
   "price": 2319.0,
   "prev": null,
   "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-19T13:33:50+07:00",
+  "unit_id": "130132781062163",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4479.0,
+  "prev": 4399.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-19T13:33:50+07:00",
+  "unit_id": "130401061312519",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4139.0,
+  "prev": 4179.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-19T13:33:50+07:00",
+  "unit_id": "129721763897358",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3659.0,
+  "prev": 3649.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-19T13:33:50+07:00",
+  "unit_id": "130211930199040",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4109.0,
+  "prev": 4019.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-19T13:33:50+07:00",
+  "unit_id": "130164555003907",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 155H",
+  "price": 4479.0,
+  "prev": 4439.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-19T13:33:50+07:00",
+  "unit_id": "129809661824019",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3279.0,
+  "prev": 3219.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-19T13:33:50+07:00",
+  "unit_id": "130211938590722",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4109.0,
+  "prev": 4059.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-19T13:33:50+07:00",
+  "unit_id": "130085200877576",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4079.0,
+  "prev": 4029.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-19T13:33:50+07:00",
+  "unit_id": "130267643124742",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3649.0,
+  "prev": 3639.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-19T13:33:50+07:00",
+  "unit_id": "130355699408939",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3659.0,
+  "prev": 3599.0
  }
 ]
