@@ -17749,5 +17749,23 @@
   "cpu": "Ryzen 5 5500U",
   "price": 2169.0,
   "prev": 2169.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-20T18:30:25+07:00",
+  "unit_id": "128953739119617",
+  "model": "REDMI Book 14",
+  "cpu": "Ryzen 5 7000",
+  "price": 2879.0,
+  "prev": 2899.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-20T18:30:25+07:00",
+  "unit_id": "130086391527438",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 155H",
+  "price": 4559.0,
+  "prev": 4269.0
  }
 ]
