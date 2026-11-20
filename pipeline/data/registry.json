@@ -3016,7 +3016,7 @@
   "ssd": "1 ТБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 i7 11代 MX450 16G 1T 无",
   "cond": "8成新",
-  "price": 2289.0,
+  "price": 2269.0,
   "first_seen": "2026-11-07T20:30:13+07:00",
   "last_seen": "2026-11-07T20:30:13+07:00",
   "status": "sold",
@@ -3736,7 +3736,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 i5 12代 集显 16G 512G 无",
   "cond": "95新",
-  "price": 2509.0,
+  "price": 2479.0,
   "first_seen": "2026-11-11T08:43:40+07:00",
   "last_seen": "2026-11-11T08:43:40+07:00",
   "status": "sold",
@@ -6024,7 +6024,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 i5 11代 集显 16G 512G 无",
   "cond": "8成新",
-  "price": 1869.0,
+  "price": 1879.0,
   "first_seen": "2026-11-19T05:42:36+07:00",
   "last_seen": "2026-11-19T05:42:36+07:00",
   "status": "sold",
@@ -6088,7 +6088,7 @@
   "ssd": "512 ГБ",
   "name": "小米 RedmiBook Pro 14 14英寸 灰色 i5 12代 集显 16G 512G 无",
   "cond": "95新",
-  "price": 2309.0,
+  "price": 2329.0,
   "first_seen": "2026-11-19T12:22:08+07:00",
   "last_seen": "2026-11-19T12:22:08+07:00",
   "status": "sold",
@@ -6379,8 +6379,8 @@
   "price": 1959.0,
   "first_seen": "2026-11-20T17:25:54+07:00",
   "last_seen": "2026-11-20T17:25:54+07:00",
-  "status": "active",
-  "sold_at": null,
+  "status": "sold",
+  "sold_at": "2026-11-20T20:52:26+07:00",
   "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=129896964694025"
  },
  "130401557831686": {
@@ -6398,5 +6398,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10137951520213.html?inspectSkuId=130401557831686"
+ },
+ "129734651437067": {
+  "unit_id": "129734651437067",
+  "sku": "10137951520212",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i7 11-го пок.",
+  "ram": "16 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 RedmiBook Pro 14 14英寸 灰色 i7 11代 MX450 16G 1T 无",
+  "cond": "8成新",
+  "price": 2269.0,
+  "first_seen": "2026-11-20T20:52:26+07:00",
+  "last_seen": "2026-11-20T20:52:26+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10137951520212.html?inspectSkuId=129734651437067"
  }
 }
