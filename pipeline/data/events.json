@@ -20171,5 +20171,96 @@
   "cpu": "Ryzen 7 6800H",
   "price": 2319.0,
   "prev": 2319.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T20:37:57+07:00",
+  "unit_id": "130308760417336",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i5 11-го пок.",
+  "price": 1869.0,
+  "prev": 1839.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T20:37:57+07:00",
+  "unit_id": "130214683227153",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i5 11-го пок.",
+  "price": 2089.0,
+  "prev": 2049.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T20:37:57+07:00",
+  "unit_id": "129727717193753",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i7 12-го пок.",
+  "price": 2799.0,
+  "prev": 2819.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T20:37:57+07:00",
+  "unit_id": "129769948584968",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 1849.0,
+  "prev": 1859.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T20:37:57+07:00",
+  "unit_id": "130220853048321",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 7 5700U",
+  "price": 2049.0,
+  "prev": 2119.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T20:37:57+07:00",
+  "unit_id": "130039331971090",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 2079.0,
+  "prev": 2019.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T20:37:57+07:00",
+  "unit_id": "130408022824962",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 2019.0,
+  "prev": 2009.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T20:37:57+07:00",
+  "unit_id": "130442419255350",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Intel i5 12-го пок.",
+  "price": 2379.0,
+  "prev": 2309.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-22T20:37:57+07:00",
+  "unit_id": "129722375230465",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 7 5700U",
+  "price": 2099.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-22T20:37:57+07:00",
+  "unit_id": "130446295851013",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 2019.0,
+  "prev": 2019.0
  }
 ]
