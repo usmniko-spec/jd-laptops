@@ -19651,5 +19651,95 @@
   "cpu": "Ryzen 5 5500U",
   "price": 2029.0,
   "prev": 2029.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T09:44:56+07:00",
+  "unit_id": "128953739119617",
+  "model": "REDMI Book 14",
+  "cpu": "Ryzen 5 7000",
+  "price": 2899.0,
+  "prev": 2909.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T09:44:56+07:00",
+  "unit_id": "129721763897358",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3559.0,
+  "prev": 3589.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T09:44:56+07:00",
+  "unit_id": "130211938590722",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4019.0,
+  "prev": 3989.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T09:44:56+07:00",
+  "unit_id": "130132781062163",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4389.0,
+  "prev": 4419.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T09:44:56+07:00",
+  "unit_id": "130495715215366",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3599.0,
+  "prev": 3649.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T09:44:56+07:00",
+  "unit_id": "130225178432515",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4139.0,
+  "prev": 4119.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T09:44:56+07:00",
+  "unit_id": "130401061312519",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4229.0,
+  "prev": 4199.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T09:44:56+07:00",
+  "unit_id": "130535032627206",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 3979.0,
+  "prev": 4009.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T09:44:56+07:00",
+  "unit_id": "128636866792469",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 155H",
+  "price": 4109.0,
+  "prev": 4099.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T09:44:56+07:00",
+  "unit_id": "130086391527438",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 155H",
+  "price": 4589.0,
+  "prev": 4559.0
  }
 ]
