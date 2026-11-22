@@ -20335,5 +20335,33 @@
   "cpu": "Ryzen 5 6600H",
   "price": 2249.0,
   "prev": 2249.0
+ },
+ {
+  "type": "price",
+  "ts": "2026-11-22T23:24:20+07:00",
+  "unit_id": "129896964694025",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 5 5500U",
+  "price": 1939.0,
+  "prev": 1929.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-22T23:24:20+07:00",
+  "unit_id": "130216337888282",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 7 5700U",
+  "price": 2089.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-22T23:24:20+07:00",
+  "unit_id": "129722375230465",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ryzen 7 5700U",
+  "price": 2099.0,
+  "prev": 2099.0
  }
 ]
