@@ -21486,5 +21486,24 @@
   "cpu": "Ryzen 7 5700U",
   "price": 1829.0,
   "prev": 1829.0
+ },
+ {
+  "type": "new",
+  "ts": "2026-11-23T23:32:29+07:00",
+  "unit_id": "130576505919495",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4059.0,
+  "prev": null,
+  "lot_first": "2026-10-23T14:10:00+07:00"
+ },
+ {
+  "type": "sold",
+  "ts": "2026-11-23T23:32:29+07:00",
+  "unit_id": "130572294821891",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 5 125H",
+  "price": 4059.0,
+  "prev": 4059.0
  }
 ]
