@@ -5688,7 +5688,7 @@
   "ssd": "1 ТБ",
   "name": "小米 REDMI Book Pro 14 2025 14英寸 晴空蓝 Ultra 5 225H 集显 32G 1T 无",
   "cond": "95新",
-  "price": 5129.0,
+  "price": 5089.0,
   "first_seen": "2026-11-18T00:54:17+07:00",
   "last_seen": "2026-11-18T00:54:17+07:00",
   "status": "active",
@@ -7662,5 +7662,21 @@
   "status": "active",
   "sold_at": null,
   "url": "https://item.m.jd.com/product/10193211849646.html?inspectSkuId=130716135861249"
+ },
+ "130766858641415": {
+  "unit_id": "130766858641415",
+  "sku": "10193211849647",
+  "model": "RedmiBook Pro 14",
+  "cpu": "Ultra 7 255H",
+  "ram": "32 ГБ",
+  "ssd": "1 ТБ",
+  "name": "小米 REDMI Book Pro 14 2025 14英寸 晴空蓝 Ultra 7 255H 集显 32G 1T 无",
+  "cond": "95新",
+  "price": 6009.0,
+  "first_seen": "2026-11-27T03:30:39+07:00",
+  "last_seen": "2026-11-27T03:30:39+07:00",
+  "status": "active",
+  "sold_at": null,
+  "url": "https://item.m.jd.com/product/10193211849647.html?inspectSkuId=130766858641415"
  }
 }
